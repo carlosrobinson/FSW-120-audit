@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: goldenrod;
+}
+
+#title {
+    position: relative;
+    display: flex;
+    background-color: rgb(204, 27, 27);
+    flex-direction: column;
+    justify-items: space-evenly;
+    align-items: center;
+    line-height: 75px;
+}
+
+#app {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 500px;
+    width: 200px;
+    height: 110px;
+}
+
+#app {
+    position: relative;
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
+    margin-left: 500px;
+    width: 400px;
+}
+
+#copy-r {
+    position: relative;
+    display: flex;
+    background-color: steelblue;
+    flex-direction: row;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
