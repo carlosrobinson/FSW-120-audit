@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: khaki;
+}
+
+#app {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 500px;
+    width: 400px;
+}
+#my-header {
+    position: relative;
+    display: flex;
+    background-color: darkgrey;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    line-height: 75px;
+}
+
+#myh4 {
+    position: relative;
+    bottom: 80px;
+}
+
+#myNav {
+    position: relative;
+    display: flex;
+
+    flex-direction: row;
+    justify-content:space-evenly;
+    gap: 100px;
+}
+
+#myBlogs {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 500px;
+    width: 400px;
+
+}
+
+#copy-r {
+    position: relative;
+    display: flex;
+    background-color: steelblue;
+    flex-direction: row;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
