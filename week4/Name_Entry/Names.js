@@ -23,7 +23,7 @@ class Names extends React.Component{
         var newLi = document.createElement("li")
         newLi.textContent = this.state.newNames
         myOl.append(newLi)
-        this.setState({newNames:[this.state.surprise], surprise: ""})
+        this.setState({newNames:[...this.state.surprise], surprise: ""})
             event.preventDefault();
     }
     
