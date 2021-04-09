@@ -1,0 +1,16 @@
+{
+    "data": {
+        "tweets":[
+            {
+                "title": "John Smith",
+                "handle":"@john_smith",
+                "message": "Had a great time last night with you know who. I hope she did too. #NewGF # tillnexttime"
+            },
+             {
+                "title": "John Smith",
+                "handle":"@john_smith",
+                "message": "She didn't call me back yet. Man is that a bad sign. #notmyday #callme"
+            }
+        ]
+    }
+}
